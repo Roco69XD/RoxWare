@@ -6,9 +6,8 @@
 
 RoxWare is a free csgo software pasted from osiris that gives you the ability to add skins, change world color, enable glow, and more!
 
-### Open source
-
-Its on github, your reading this on the github page, do i really need to explain what open source means? Thats what i thought.
+### Public
+Theres a Public and Private version, one updates faster and the other is safer for usage on vac servers
 
 ### Features
 
