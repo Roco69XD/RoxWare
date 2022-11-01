@@ -1,6 +1,6 @@
-##RoxWare Csgo software
+**RoxWare Csgo software**
 
-##2.0 RELEASED
+**2.0 RELEASED**
 
 ### Description
 
