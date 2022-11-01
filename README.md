@@ -1,6 +1,6 @@
-#RoxWare Csgo software
+##RoxWare Csgo software
 
-#2.0 RELEASED
+##2.0 RELEASED
 
 ### Description
 
@@ -25,7 +25,5 @@ This software has features like:
 
 use a good and updated injector that has vac bypass, i recomend csghost injector.
 
-### Images
 
-![alt text](file:///C:/Users/RocoPlays/Downloads/Uus%20Projekt%20(1)%20(1).png)
 
